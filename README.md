@@ -1,2 +1,2 @@
-# Enhancing-Collective-Estimates-by-Aggregating-Cardinal-and-Ordinal-Inputs
+# Enhancing Collective Estimates by Aggregating Cardinal and Ordinal Inputs
 Github repository containing the web application and anonymized data for "Enhancing Collective Estimates by Aggregating Cardinal and Ordinal Inputs", featured in The 8th AAAI Conference on Human Computation and Crowdsourcing 
