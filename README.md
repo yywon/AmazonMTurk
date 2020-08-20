@@ -12,3 +12,11 @@ Data from the study is in json format and can be found in the "data" folder. The
   ratings (list): All of the individual numberical estimations for all images in each problem. These are structed in a way where at position 0 contains the numerical estimation the participant provided for the image with the least amount of dots, and the last position contatins the numerical estimation that the participant provided for the image with the most amount of dots. 
   
   groundtruth (list): The groundtruth numerical estimations for the number of dots in each problem. 
+
+## Dot images
+
+Dot images are provided in the
+
+## Web application
+
+The web application to perform the activtiy is provided and written using Node.js, javascript, html, and css. 
