@@ -15,7 +15,7 @@ Data from the study is in json format and can be found in the "data" folder. The
 
 ## Dot images
 
-Dot images are provided in the
+Dot images are provided under public/images/dots. Images in the dots2 folder were utilized for the problem of 2, images in the dots3 folder were utilized for the problem of size 3, etc. 
 
 ## Web application
 
