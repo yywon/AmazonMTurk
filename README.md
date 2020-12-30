@@ -20,3 +20,14 @@ Dot images are provided under public/images/dots. Images in the dots2 folder wer
 ## Web application
 
 The web application to perform the activtiy is provided and written using Node.js, javascript, html, and css. 
+
+### Setup
+
+```
+cd dotsactivity-data
+npm start
+```
+go to `http://localhost:8000`
+
+A local mongo database is also necessary to store data from the application. 
+
