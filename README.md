@@ -28,6 +28,5 @@ cd dotsactivity-data
 npm start
 ```
 go to `http://localhost:8000`
-
 A local mongo database is also necessary to store data from the application. 
 
